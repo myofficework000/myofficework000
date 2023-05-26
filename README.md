@@ -13,17 +13,11 @@
 
 - 🔭 I’m currently working on **UK's largest Banking App(confidential)**
 
-- 🌱 I’m currently learning **React Native**
-
-- 👨‍💻 All of my projects are available at [https://medium.com/@myofficework000/abhishek-pathak-android-lead-portfolio-47d4b5ac083b](https://medium.com/@myofficework000/abhishek-pathak-android-lead-portfolio-47d4b5ac083b)
-
 - 📝 I regularly write articles on [https://medium.com/@myofficework000](https://medium.com/@myofficework000)
 
-- 💬 Ask me about **Android, Kotlin, Java, Data structure**
+- 💬 Ask me about **Android, Kotlin, Jetpack Compose, Data structure**
 
 - 📫 How to reach me **myofficework000@gmail.com**
-
-- ⚡ Fun fact **I love PUBG and table tennis games**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
