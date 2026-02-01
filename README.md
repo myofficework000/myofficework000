@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/myofficework000" target="blank"><img src="https://img.shields.io/twitter/follow/myofficework000?logo=twitter&style=for-the-badge" alt="myofficework000" /></a> </p>
 
-- 🔭 I’m currently working on **UK's largest Banking App(confidential)**
+- 🔭 I’m currently working @ UBS**
 
 - 📝 I regularly write articles on [https://medium.com/@myofficework000](https://medium.com/@myofficework000)
 
-- 💬 Ask me about **Android, Kotlin, Jetpack Compose, Data structure**
+- 💬 Ask me about **Android, Kotlin, Jetpack Compose, Data structure & Algrithms, System Design**
 
 - 📫 How to reach me **myofficework000@gmail.com**
 
