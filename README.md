@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pathak</h1>
-<h3 align="center">Android Lead | Mobile Engineering Leader | 10+ Years Experience in Scalable & Enterprise Apps</h3>
+<h3 align="center">Android Lead dev | 10+ Years Experience in Scalable & Enterprise Apps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=myofficework000&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
@@ -19,7 +19,7 @@ My strengths lie in combining **deep Android architecture knowledge** with **eng
 
 ### 🧠 What I Work With
 
-- Kotlin, Java, Jetpack Compose, MVVM, MVI
+- Kotlin, Java, Jetpack Compose, MVVM, MVI, KMM
 - Clean Architecture, Modularization, SDK Design
 - Coroutines, Flows, LiveData, RxJava, Navigation 
 - Retrofit, GraphQL, Room, Firebase Suite
@@ -27,10 +27,9 @@ My strengths lie in combining **deep Android architecture knowledge** with **eng
 - Dagger Hilt, Dependency Injection
 - CI/CD with GitHub Actions, Jenkins, CircleCI
 - Agile, JIRA, Code Reviews, Engineering Mentorship
+- Data Structures & Algorithms, System Design
 
 ---
-
-### 🏦 Currently @ UBS
 
 ### ✍️ Technical Writing & Community
 
