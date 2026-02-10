@@ -28,7 +28,7 @@ My strengths lie in combining **deep Android architecture knowledge** with **eng
 - CI/CD with GitHub Actions, Jenkins, CircleCI
 - Agile, JIRA, Code Reviews, Engineering Mentorship
 - Data Structures & Algorithms, System Design
-- Agentic AI, MCP, GenAi
+- Agentic AI, MCP, GenAI
 
 ---
 
