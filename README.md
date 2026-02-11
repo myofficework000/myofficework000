@@ -33,8 +33,7 @@ My strengths lie in combining **deep Android architecture knowledge** with **eng
 ---
 
 ### ✍️ Technical Writing & Community
-
-- Published Android articles read by thousands of developers
+- Sharing Android insights through articles appreciated by thousands of developers worldwide.
 
 ---
 
