@@ -56,12 +56,9 @@ My strengths lie in combining **deep Android architecture knowledge** with **eng
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=myofficework000&theme=react-dark"/>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=myofficework000&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
-
-
 ---
 
 ### 🛠️ Tech Stack Snapshot
@@ -69,15 +66,11 @@ My strengths lie in combining **deep Android architecture knowledge** with **eng
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,swift,react,git,firebase,graphql,jenkins,github,gradle" />
 </p>
-
 <p align="center">
   <b>Android • iOS • Kotlin Multiplatform • Xamarin • React Native • Agentic AI • Jetpack Compose • MVVM • Clean Architecture</b>
 </p>
-
-
 ---
 
 ### 💡 Engineering Philosophy
-
-> Clean code. Reusable architecture. Secure mobile systems. Continuous learning. Mentoring engineers. Delivering impact at scale.
+Clean code. Reusable architecture. Secure mobile systems. Continuous learning. Mentoring engineers. Delivering impact at scale.
 
