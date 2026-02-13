@@ -34,11 +34,7 @@ My strengths lie in combining **deep Android architecture knowledge** with **eng
 
 ### ✍️ Technical Writing & Community
 - Sharing Android insights through articles appreciated by thousands of developers worldwide.
-
----
-
 ### 🌐 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Pathak-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
 [![Medium](https://img.shields.io/badge/Medium-Articles-black?logo=medium)](https://medium.com/@myofficework000)
 [![GitHub](https://img.shields.io/badge/GitHub-myofficework000-black?logo=github)](https://github.com/myofficework000)
