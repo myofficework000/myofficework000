@@ -44,18 +44,21 @@ My strengths lie in combining **deep Android architecture knowledge** with **eng
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=myofficework000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=myofficework000&layout=compact&langs_count=10&theme=algolia"/>
+          <img src="https://komarev.com/ghpvc/?username=myofficework000&label=Profile%20Views&color=0e75b6&style=flat" height="20"/>
+  <table width="100%">
+    <tr>
+      <td width="40%" align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=myofficework000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="180"/><br>
+      </td>
+       <td width="30%" align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=myofficework000&layout=compact&langs_count=10&theme=algolia" height="180"/>
+      </td>
+      <td width="30%" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=myofficework000&theme=react-dark" height="180"/>
+      </td>
+    </tr>
+  </table>
 </p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=myofficework000&theme=react-dark"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=myofficework000&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
----
 
 ### 🛠️ Tech Stack Snapshot
 
@@ -65,7 +68,6 @@ My strengths lie in combining **deep Android architecture knowledge** with **eng
 <p align="center">
   <b>Android • iOS • Kotlin Multiplatform • Xamarin • React Native • Agentic AI • Jetpack Compose • MVVM • Clean Architecture</b>
 </p>
----
 
 ### 💡 Engineering Philosophy
 Clean code. Reusable architecture. Secure mobile systems. Continuous learning. Mentoring engineers. Delivering impact at scale.
