@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pathak</h1>
-<h3 align="center">Android Lead dev | 10+ Years Experience in Scalable & Enterprise Apps</h3>
+<h3 align="center">Android Lead Developer | 10+ Years Building Scalable Enterprise Mobile Apps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=myofficework000&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
@@ -9,26 +9,27 @@
 
 ### 🚀 About Me
 
-I am a **Mobile Engineer** with over **10 years of Android expertise**, currently driving Android engineering strategy for **client-facing banking applications at UBS**.
+Mobile Engineer with **10+ years of Android expertise**, currently leading Android engineering strategy for **client-facing banking applications at UBS**.
 
-I specialize in building **secure, scalable, and high-performance mobile applications** used by millions of users in **banking, fintech, IoT, logistics, education, and enterprise domains**.
+I build **secure, scalable, high-performance mobile platforms** across banking, fintech, IoT, logistics, education, and enterprise ecosystems.
 
-My strengths lie in combining **deep Android architecture knowledge** with **engineering leadership**, mentoring teams, modernizing development practices, and delivering production-grade mobile platforms.
+Strong focus on:
+- Modern Android architecture  
+- Engineering leadership & mentorship  
+- Scalable system design  
+- Production-grade delivery  
 
 ---
 
-### 🧠 What I Work With
+### 🧠 Tech Stack
 
-- Kotlin, Java, Jetpack Compose, MVVM, MVI, KMM
-- Clean Architecture, Modularization, SDK Design
-- Coroutines, Flows, LiveData, RxJava, Navigation 
-- Retrofit, GraphQL, Room, Firebase Suite
-- Media3, ExoPlayer, Google Maps, Fused Location
-- Dagger Hilt, Dependency Injection
-- CI/CD with GitHub Actions, Jenkins, CircleCI
-- Agile, JIRA, Code Reviews, Engineering Mentorship
-- Data Structures & Algorithms, System Design
-- Agentic AI, MCP, GenAI
+**Languages & UI:**  Kotlin • Java • Jetpack Compose • XML  
+**Architecture & Patterns:**  MVVM • MVI • Clean Architecture • Modularization • KMM  
+**Async & Data:**  Coroutines • Flow • LiveData • RxJava  
+**Networking & Storage:**  Retrofit • GraphQL • Room • Firebase Suite  
+**SDKs & Integrations:**  Media3 • ExoPlayer • Google Maps • Fused Location  
+**DevOps & Engineering:**  Dagger Hilt • CI/CD (GitHub Actions, Jenkins, CircleCI)  Agile • JIRA • Code Reviews • System Design  
+**Emerging Tech:**  Agentic AI • MCP • GenAI
 
 ---
 
