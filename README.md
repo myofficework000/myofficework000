@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=myofficework000&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
----
-
 ### 🚀 About Me
 
 Mobile Engineer with **10+ years of Android expertise**, currently leading Android engineering strategy for **client-facing banking applications at UBS**.
