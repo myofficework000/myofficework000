@@ -17,8 +17,6 @@ Strong focus on:
 - Scalable system design  
 - Production-grade delivery  
 
----
-
 ### 🧠 Tech Stack
 
 **Languages & UI:**  Kotlin • Java • Jetpack Compose • XML  
