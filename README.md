@@ -12,7 +12,7 @@ Mobile Engineer with **10+ years of Android expertise**, currently leading Andro
 I build **secure, scalable, high-performance mobile platforms** across banking, fintech, IoT, logistics, education, and enterprise ecosystems.
 
 Strong focus on:
-- Modern Android architecture  
+- Modern Android architecture, Clean code   
 - Engineering leadership & mentorship  
 - Scalable system design  
 - Production-grade delivery  
