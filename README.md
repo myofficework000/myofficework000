@@ -26,6 +26,7 @@ Strong focus on:
 **SDKs & Integrations:**  Media3 • ExoPlayer • Google Maps • Fused Location  
 **DevOps & Engineering:**  Dagger Hilt • CI/CD (GitHub Actions, Jenkins, CircleCI)  Agile • JIRA • Code Reviews • System Design  
 **Emerging Tech:**  Agentic AI • MCP • GenAI
+**iOS:** SwiftUI • MVVM • TCA architecture
 
 ---
 
