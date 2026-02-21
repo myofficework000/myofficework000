@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pathak</h1>
 <h3 align="center">Android Lead Developer | 10+ Years Building Scalable Enterprise Mobile Apps</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=myofficework000&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
-### 🚀 About Me
-
 Mobile Engineer with **10+ years of Android expertise**, currently leading Android engineering strategy for **client-facing banking applications at UBS**.
 
 I build **secure, scalable, high-performance mobile platforms** across banking, fintech, IoT, logistics, education, and enterprise ecosystems.
