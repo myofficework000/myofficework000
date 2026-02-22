@@ -52,7 +52,7 @@ Strong focus on:
   </table>
 </p>
 
-### 🛠️ Tech Stack Snapshot
+### 🛠️ Tech Stacks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,swift,react,git,firebase,graphql,jenkins,github,gradle" />
