@@ -9,7 +9,7 @@ Strong focus on:
 - Modern Android architecture, Clean code   
 - Engineering leadership & mentorship  
 - Scalable system design  
-- Production-grade delivery  
+- Production grade delivery  
 
 ### 🧠 Tech Stack
 
