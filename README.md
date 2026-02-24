@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pathak</h1>
 <h3 align="center">Android Lead Developer | 10+ Years Building Scalable Enterprise Mobile Apps</h3>
 
-Mobile Engineer with **10+ years of Android expertise**, currently leading Android engineering strategy for **client-facing banking applications at UBS**.
+Mobile Engineer with **10+ years of Android expertise**, currently leading Android engineering strategy for **client-facing banking applications**.
 
 I build **secure, scalable, high-performance mobile platforms** across banking, fintech, IoT, logistics, education, and enterprise ecosystems.
 
