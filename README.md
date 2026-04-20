@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pathak</h1>
 <h3 align="center">Android Lead Developer | 10+ Years Building Scalable Enterprise Mobile Apps | AI </h3>
 
-Mobile Engineer with **10 years of Android expertise**, currently leading Android engineering strategy for **client-facing banking applications**.
+Mobile Engineer with **10 years of expertise**, currently leading engineering strategy for **client-facing banking applications**.
 
 I build **secure, scalable, high-performance mobile platforms** across banking, fintech, IoT, logistics, education, and enterprise ecosystems.
 
 Strong focus on:
-- Modern Android architecture, Clean code   
+- Modern Android, iOS architecture, Clean code   
 - Engineering leadership & mentorship  
 - Scalable system design  
 - Production grade delivery  
