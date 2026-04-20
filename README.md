@@ -1,48 +1,71 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pathak</h1>
-<h3 align="center">Android Lead Developer | 10+ Years Building Scalable Enterprise Mobile Apps | AI </h3>
+<h3 align="center">Associate Director | Mobile & Platform Engineering Leader | AI • System Design • Digital Transformation</h3>
 
-Mobile Engineer with **10 years of expertise**, currently leading engineering strategy for **client-facing banking applications**.
+Senior technology leader with **10+ years of experience driving large-scale digital transformation** across global banking and enterprise ecosystems.
 
-I build **secure, scalable, high-performance mobile platforms** across banking, fintech, IoT, logistics, education, and enterprise ecosystems.
+Currently at **UBS**, leading engineering strategy and execution for **client-facing mobile banking and payments platforms** used by millions globally.
 
-Strong focus on:
-- Modern Android, iOS architecture, Clean code   
-- Engineering leadership & mentorship  
-- Scalable system design  
-- Production grade delivery  
-
-### 🧠 Tech Stack
-
-**Languages & UI:**  Kotlin • Java • Jetpack Compose • XML  
-**Architecture & Patterns:**  MVVM • MVI • Clean Architecture • Modularization • KMM  
-**Async & Data:**  Coroutines • Flow • LiveData • RxJava  
-**Networking & Storage:**  Retrofit • GraphQL • Room • Firebase Suite  
-**SDKs & Integrations:**  Media3 • ExoPlayer • Google Maps • Fused Location  
-**DevOps & Engineering:**  Dagger Hilt • CI/CD (GitHub Actions, Jenkins, CircleCI)  Agile • JIRA • Code Reviews • System Design  
-**Emerging Tech:**  Agentic AI • MCP • GenAI
-**iOS:** SwiftUI • MVVM • TCA architecture
+I specialize in **bridging product vision and engineering execution**, delivering **secure, scalable, high-performance systems** aligned with business outcomes.
 
 ---
 
-### ✍️ Technical Writing & Community
-- Sharing Android insights through articles appreciated by thousands of developers worldwide.
+### 🚀 What I Drive
+
+- 📈 **Digital Growth & Engagement** – Contributed to **10K+ YoY increase in active users** across banking platforms  
+- ⚡ **Performance & Reliability** – Improved app performance and stability by **~25–30% (crash rate, latency, success rates)**  
+- 🤖 **AI & Intelligent Systems** – Building **LLM-powered personalization and agentic workflows** for next-gen user experiences  
+- 🏗️ **Platform Engineering** – Designed reusable architectures reducing **development effort by ~20%+**  
+- 🔐 **Risk & Governance** – Delivering **secure, compliant, and resilient systems** in regulated financial environments  
+
+---
+
+### 🧠 Core Expertise
+
+- **System Design & Architecture** – Scalable, resilient, enterprise-grade platforms  
+- **Engineering Leadership** – Building high-performing teams & driving execution at scale  
+- **Product–Engineering Bridge** – Aligning business goals with technical strategy  
+- **Delivery Models** – Agile, Waterfall, and hybrid execution for complex programs  
+- **Platform Modernization** – Cloud-ready, modular, and future-proof systems  
+
+---
+
+### 🧠 Tech Stack
+
+**Languages & UI:** Kotlin • Java • Jetpack Compose • XML • SwiftUI  
+**Architecture & Patterns:** MVVM • MVI • Clean Architecture • Modularization • KMM  
+**Async & Data:** Coroutines • Flow • LiveData • RxJava  
+**Networking & Storage:** Retrofit • GraphQL • Room • Firebase Suite  
+**SDKs & Integrations:** Media3 • ExoPlayer • Google Maps • Fused Location  
+**DevOps & Engineering:** Dagger Hilt • CI/CD (GitHub Actions, Jenkins, CircleCI) • Agile • JIRA • System Design  
+**Emerging Tech:** Agentic AI • LLMs • GenAI • MCP  
+
+---
+
+### ✍️ Thought Leadership
+
+- Sharing insights on **Android, system design, and scalable architectures**  
+- Writing about **AI in mobile, performance engineering, and real-world system challenges**
+
+---
+
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Pathak-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
-[![Medium](https://img.shields.io/badge/Medium-Articles-black?logo=medium)](https://medium.com/@myofficework000)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Pathak-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINK)  
+[![Medium](https://img.shields.io/badge/Medium-Articles-black?logo=medium)](https://medium.com/@myofficework000)  
 [![GitHub](https://img.shields.io/badge/GitHub-myofficework000-black?logo=github)](https://github.com/myofficework000)
 
 ---
 
-### 📊 stats
+### 📊 Stats
 
 <p align="center">
-          <img src="https://komarev.com/ghpvc/?username=myofficework000&label=Profile%20Views&color=0e75b6&style=flat" height="20"/>
+  <img src="https://komarev.com/ghpvc/?username=myofficework000&label=Profile%20Views&color=0e75b6&style=flat" height="20"/>
   <table width="100%">
     <tr>
       <td width="40%" align="center">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=myofficework000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="180"/><br>
       </td>
-       <td width="30%" align="center">
+      <td width="30%" align="center">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=myofficework000&layout=compact&langs_count=10&theme=algolia" height="180"/>
       </td>
       <td width="30%" align="center">
@@ -52,15 +75,20 @@ Strong focus on:
   </table>
 </p>
 
+---
+
 ### 🛠️ Tech Stacks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,swift,react,git,firebase,graphql,jenkins,github,gradle" />
 </p>
+
 <p align="center">
-  <b>Android • iOS • Kotlin Multiplatform • Xamarin • React Native • Agentic AI • Jetpack Compose • MVVM • Clean Architecture</b>
+  <b>Android • iOS • Kotlin Multiplatform • React Native • Agentic AI • Jetpack Compose • Clean Architecture • System Design</b>
 </p>
 
-### 💡 Engineering Philosophy
-Clean code. Reusable architecture. Secure mobile systems. Continuous learning. Mentoring engineers. Delivering impact at scale.
+---
 
+### 💡 Engineering Philosophy
+
+**Build for scale. Design for resilience. Align with business. Deliver measurable impact.**
