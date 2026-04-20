@@ -30,14 +30,29 @@ I specialize in **bridging product vision and engineering execution**, deliverin
 ---
 
 ### 🧠 Tech Stack
+Languages & Platforms:
+Kotlin • Java • Swift • Kotlin Multiplatform (KMM) • Cross-platform ecosystems
 
-**Languages & UI:** Kotlin • Java • Jetpack Compose • XML • SwiftUI  
-**Architecture & Patterns:** MVVM • MVI • Clean Architecture • Modularization • KMM  
-**Async & Data:** Coroutines • Flow • LiveData • RxJava  
-**Networking & Storage:** Retrofit • GraphQL • Room • Firebase Suite  
-**SDKs & Integrations:** Media3 • ExoPlayer • Google Maps • Fused Location  
-**DevOps & Engineering:** Dagger Hilt • CI/CD (GitHub Actions, Jenkins, CircleCI) • Agile • JIRA • System Design  
-**Emerging Tech:** Agentic AI • LLMs • GenAI • MCP  
+Architecture & System Design:
+Distributed Systems • Scalable Mobile & Backend Architectures • Clean Architecture • Modularization • API-driven Design • Event-driven Systems
+
+Cloud & Backend Ecosystems:
+REST/GraphQL APIs • Firebase Suite • Cloud-integrated mobile systems • Microservices collaboration
+
+Data, Async & Performance:
+Coroutines • Flow • Reactive Programming (RxJava) • Performance Optimization • Observability & Monitoring
+
+Platform Engineering & DevOps:
+CI/CD (GitHub Actions, Jenkins, CircleCI) • Release Management • Build Systems • Automation • Reliability Engineering
+
+AI & Emerging Technologies:
+LLMs • Agentic AI • GenAI integrations • Intelligent workflows • Personalization systems
+
+Engineering Leadership & Delivery:
+Agile, Waterfall & Hybrid Models • Program Delivery • Stakeholder Management • Cross-functional Leadership • Engineering Governance
+
+Security, Risk & Compliance:
+Secure Coding Practices • Data Protection • Risk-aware Delivery • Regulatory-aligned systems (Banking/Fintech)
 
 ---
 
