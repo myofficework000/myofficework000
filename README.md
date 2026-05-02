@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pathak</h1>
 <h3 align="center">Associate Director | Mobile & Platform Engineering Leader | AI • System Design • Digital Transformation</h3>
 
-Senior technology leader with **10+ years of experience driving large-scale digital transformation** across global banking and enterprise ecosystems.
-
-Currently at **UBS**, leading engineering strategy and execution for **client-facing mobile banking and payments platforms** used by millions globally.
-
-I specialize in **bridging product vision and engineering execution**, delivering **secure, scalable, high-performance systems** aligned with business outcomes.
+Lead Android Engineer with 10+ years of experience building scalable, high-performance mobile applications, currently leading Android development for enterprise banking products at UBS.
+Specializes in Kotlin-based Android architecture, with deep expertise in Jetpack Compose, MVVM/MVI, and Clean Architecture. Experienced in designing and delivering secure, large-scale applications in regulated environments.
+Hands-on with modern AI capabilities, including LLM-powered and agent-driven user experiences, enabling intelligent workflows and automation within mobile applications. Drives technical direction, mentors engineers, and collaborates cross-functionally to build reliable, maintainable, and performant mobile systems.
 
 ---
 
