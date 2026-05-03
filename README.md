@@ -56,7 +56,7 @@ Secure Coding Practices • Data Protection • Risk-aware Delivery • Regulato
 
 ### ✍️ Thought Leadership
 
-- Sharing insights on **Android, system design, and scalable architectures**  
+- Sharing insights on **Android, system design, and scalable architecture**  
 - Writing about **AI in mobile, performance engineering, and real-world system challenges**
 
 ---
