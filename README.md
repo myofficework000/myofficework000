@@ -58,9 +58,10 @@ I am a mobile and platform engineering leader with 10+ years of experience deliv
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://play.google.com/store/apps/details?id=abhishek.pathak.business"><img src="https://lh3.googleusercontent.com/6z7oVpFaYBStWqb1a2bX5Ir6Tx6QCSEwVVntfV_ifmg-1Jsi7FWBLsUdVmBgxANid2s" width="84" alt="2048 Matrix app icon" /></a><br/><a href="https://play.google.com/store/apps/details?id=abhishek.pathak.business"><b>2048 Matrix</b></a><br/><sub>Live on Google Play</sub></td>
-    <td align="center" width="33%"><a href="https://play.google.com/store/apps/details?id=com.business.money_minder"><img src="https://lh3.googleusercontent.com/vPeMrxlbuDRvSRfbCOfTjZqsmKkiv7ZmTZVXvLlyc1d2gnkzkvu8g_aD2RjH24ZSoZc" width="84" alt="Money Minder app icon" /></a><br/><a href="https://play.google.com/store/apps/details?id=com.business.money_minder"><b>Money Minder</b></a><br/><sub>Live on Google Play</sub></td>
-    <td align="center" width="33%"><a href="https://play.google.com/store/apps/details?id=com.codegalaxy.quicktask"><img src="https://lh3.googleusercontent.com/pfzjafDRK-Qpst7vMUyS6UXMdpFZdjxovMIWuPIkxGVFooTvb9ysZ48yK1JQ7tv6L9Pr" width="84" alt="Quick Task app icon" /></a><br/><a href="https://play.google.com/store/apps/details?id=com.codegalaxy.quicktask"><b>Quick Task</b></a><br/><sub>Live on Google Play</sub></td>
+    <td align="center" width="25%"><a href="https://play.google.com/store/apps/details?id=abhishek.pathak.business"><img src="https://lh3.googleusercontent.com/6z7oVpFaYBStWqb1a2bX5Ir6Tx6QCSEwVVntfV_ifmg-1Jsi7FWBLsUdVmBgxANid2s" width="84" alt="2048 Matrix app icon" /></a><br/><a href="https://play.google.com/store/apps/details?id=abhishek.pathak.business"><b>2048 Matrix</b></a><br/><sub>Live on Google Play</sub></td>
+    <td align="center" width="25%"><a href="https://play.google.com/store/apps/details?id=com.business.money_minder"><img src="https://lh3.googleusercontent.com/vPeMrxlbuDRvSRfbCOfTjZqsmKkiv7ZmTZVXvLlyc1d2gnkzkvu8g_aD2RjH24ZSoZc" width="84" alt="Money Minder app icon" /></a><br/><a href="https://play.google.com/store/apps/details?id=com.business.money_minder"><b>Money Minder</b></a><br/><sub>Live on Google Play</sub></td>
+    <td align="center" width="25%"><a href="https://play.google.com/store/apps/details?id=com.codegalaxy.quicktask"><img src="https://lh3.googleusercontent.com/pfzjafDRK-Qpst7vMUyS6UXMdpFZdjxovMIWuPIkxGVFooTvb9ysZ48yK1JQ7tv6L9Pr" width="84" alt="Quick Task app icon" /></a><br/><a href="https://play.google.com/store/apps/details?id=com.codegalaxy.quicktask"><b>Quick Task</b></a><br/><sub>Live on Google Play</sub></td>
+    <td align="center" width="25%"><a href="https://play.google.com/store/apps/details?id=com.code4galaxy.expenzo"><img src="https://lh3.googleusercontent.com/RNYCJ88likmDdiByykU1-5u6s32MIxE-h8x1XR0hIO9iyPUiR4CYlbeOJRT9JTnvk7WE_lP-Zx3IoDcXgoKH5UM" width="84" alt="Expenzo app icon" /></a><br/><a href="https://play.google.com/store/apps/details?id=com.code4galaxy.expenzo"><b>Expenzo</b></a><br/><sub>Live on Google Play</sub></td>
   </tr>
 </table>
 
@@ -68,11 +69,10 @@ I am a mobile and platform engineering leader with 10+ years of experience deliv
 
 <table>
   <tr>
-    <td align="center" width="20%"><img src="https://lh3.googleusercontent.com/W-LUyxWelZbE4DOTAIwPTR9sCHSCoCgDYwMkIB_a_rq113kGlolVUZENG_2DXwE7VB4H8cAL9sl-zD9tJS1A7l8" width="68" alt="Car Lokket app icon" /><br/><b>Car Lokket</b><br/><sub>Mobility · closed testing</sub></td>
-    <td align="center" width="20%"><img src="https://lh3.googleusercontent.com/RNYCJ88likmDdiByykU1-5u6s32MIxE-h8x1XR0hIO9iyPUiR4CYlbeOJRT9JTnvk7WE_lP-Zx3IoDcXgoKH5UM" width="68" alt="Expenzo app icon" /><br/><b>Expenzo</b><br/><sub>Finance · in review</sub></td>
-    <td align="center" width="20%"><img src="https://lh3.googleusercontent.com/T-9bPbjLYZT9gt3G8JKWeKGmwZN7umlfvZf1G7reG2J9TgrZ17_tsIQFMiqyRC0rcQiTBxXtmY-eezJgwLJgHps" width="68" alt="VaaniVerse4U app icon" /><br/><b>VaaniVerse4U</b><br/><sub>Education · closed testing</sub></td>
-    <td align="center" width="20%"><img src="https://github.com/myofficework000/myofficework000/raw/refs/heads/main/assets/serviceconnect-concept.png" width="68" alt="ServiceConnect concept icon" /><br/><b>ServiceConnect</b><br/><sub>Services · planning phase</sub></td>
-    <td align="center" width="20%"><img src="https://lh3.googleusercontent.com/IziUmKxtgm1qSVC75IMfS2awHXJnFDgG-7VAzk9hBTyhV3eleWHNYxIKCPt0_XsON2k" width="68" alt="WatAVent app icon" /><br/><b>WatAVent</b><br/><sub>Concept · planning phase</sub></td>
+    <td align="center" width="25%"><img src="https://lh3.googleusercontent.com/W-LUyxWelZbE4DOTAIwPTR9sCHSCoCgDYwMkIB_a_rq113kGlolVUZENG_2DXwE7VB4H8cAL9sl-zD9tJS1A7l8" width="68" alt="Car Lokket app icon" /><br/><b>Car Lokket</b><br/><sub>Mobility · closed testing</sub></td>
+    <td align="center" width="25%"><img src="https://lh3.googleusercontent.com/T-9bPbjLYZT9gt3G8JKWeKGmwZN7umlfvZf1G7reG2J9TgrZ17_tsIQFMiqyRC0rcQiTBxXtmY-eezJgwLJgHps" width="68" alt="VaaniVerse4U app icon" /><br/><b>VaaniVerse4U</b><br/><sub>Education · closed testing</sub></td>
+    <td align="center" width="25%"><img src="https://github.com/myofficework000/myofficework000/raw/refs/heads/main/assets/serviceconnect-concept.png" width="68" alt="ServiceConnect concept icon" /><br/><b>ServiceConnect</b><br/><sub>Services · planning phase</sub></td>
+    <td align="center" width="25%"><img src="https://lh3.googleusercontent.com/IziUmKxtgm1qSVC75IMfS2awHXJnFDgG-7VAzk9hBTyhV3eleWHNYxIKCPt0_XsON2k" width="68" alt="WatAVent app icon" /><br/><b>WatAVent</b><br/><sub>Concept · planning phase</sub></td>
   </tr>
 </table>
 
