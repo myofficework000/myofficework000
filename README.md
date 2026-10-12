@@ -44,6 +44,20 @@ I am a mobile and platform engineering leader with 10+ years of experience deliv
 **Product delivery & reliability** — Coroutines · Flow · RxJava · REST/GraphQL · Firebase · Observability · CI/CD · Release engineering · GitHub Actions · Jenkins  
 **AI, security & leadership** — LLM integrations · Agentic workflows · Secure coding · Data protection · Risk-aware delivery · Engineering strategy · Team development
 
+## AI-enabled mobile & platform work
+
+I am actively applying AI in mobile and platform contexts—turning LLM capabilities into secure, useful product workflows while keeping architecture, privacy, evaluation, observability, and human control central.
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><h3>✨ Intelligent experiences</h3>Mobile experiences shaped around useful, context-aware AI assistance—not novelty features.</td>
+    <td width="33%" valign="top"><h3>⚙️ Engineering leverage</h3>Agent-driven workflows that help teams accelerate discovery, delivery, quality, and operational insight.</td>
+    <td width="33%" valign="top"><h3>🛡️ Responsible delivery</h3>Privacy-aware design, clear evaluation criteria, observability, and human control for trusted AI adoption.</td>
+  </tr>
+</table>
+
+**Current AI focus** — LLM integrations · Agentic workflows · Mobile AI UX · Prompt and evaluation design · Privacy-aware product engineering · Observability
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,swift,react,firebase,graphql,jenkins,github,gradle&theme=dark" alt="Core technology stack" />
 </div>
@@ -105,11 +119,10 @@ I am a mobile and platform engineering leader with 10+ years of experience deliv
 
 <div align="center">
   <!-- The persistent view counter is deliberately retained: its history is keyed to this username and endpoint. -->
-  <!-- Original live-counter endpoint retained for historical reference: https://komarev.com/ghpvc/?username=myofficework000 -->
   <img src="https://img.shields.io/badge/Profile%20views-15K%2B-0A66C2?style=flat-square&logo=github&logoColor=white" alt="15K+ profile views" height="22" />
   <br /><br />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=myofficework000&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Abhishek's GitHub statistics" height="175" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=myofficework000&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Most-used languages" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=myofficework000&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Abhishek's GitHub statistics" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myofficework000&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Most-used languages" height="175" />
 </div>
 
 ---
