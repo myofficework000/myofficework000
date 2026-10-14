@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Pathak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myofficework)
 [![Medium](https://img.shields.io/badge/Medium-Engineering%20Writing-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@myofficework000)
 [![GitHub](https://img.shields.io/badge/GitHub-myofficework000-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/myofficework000)
-[![Download résumé](https://img.shields.io/badge/Résumé-Download%20PDF-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/myofficework000/myofficework000/raw/refs/heads/main/resume/Abhishek-Pathak-Resume.pdf)
+[![Download résumé](https://img.shields.io/badge/Résumé-Download%20PDF-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/myofficework000/myofficework000/raw/refs/heads/main/resume/Abhishek%20Pathak%20Resume%20-%2014-10-2026.pdf)
 
 </div>
 
